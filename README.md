@@ -15,6 +15,7 @@ Ce projet en C est un jeu 2D simple conçu pour vous faire utiliser des textures
    
 # Сompilation et exécution:
   cd so_long && make
+  
   ./so_long map.ber
   
  !!! Attention! il peut être nécessaire d'installer des bibliothèques supplémentaires
